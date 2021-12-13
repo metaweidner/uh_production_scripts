@@ -1,0 +1,1 @@
+File.rename('C:\Users\weidnera\Desktop\_AW_PRODUCTION\2017_042_cjt\Files\Box_001\Folder_001\Item_001\metadata.txt', 'C:\Users\weidnera\Desktop\_AW_PRODUCTION\2017_042_cjt\Files\Box_001\Folder_001\Item_001\test_metadata.txt')
